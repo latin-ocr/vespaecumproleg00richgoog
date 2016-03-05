@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vespaecumproleg00richgoog_0009.png"; bbox 0 0 4484 5467; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 813 1720 1449 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 813 1720 1449 1854">
+     <span class='ocr_line' id='line_1_1' title="bbox 813 1720 1449 1854; baseline -0.002 -14"><span class='ocrx_word' id='word_1_1' title='bbox 813 1722 1096 1841; x_wconf 80' lang='lat' dir='ltr'><strong>AVGVSTO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1131 1720 1449 1854; x_wconf 81' lang='lat' dir='ltr'><strong>BOECKHIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 580 2068 1678 2192">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 580 2068 1678 2192">
+     <span class='ocr_line' id='line_1_2' title="bbox 580 2068 1678 2192; baseline -0.004 -1"><span class='ocrx_word' id='word_1_3' title='bbox 580 2069 918 2192; x_wconf 80' lang='lat' dir='ltr'>FRIDERICO</span> <span class='ocrx_word' id='word_1_4' title='bbox 954 2068 1302 2187; x_wconf 85' lang='lat' dir='ltr'><strong>THEOPHILO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1339 2068 1678 2187; x_wconf 82' lang='lat' dir='ltr'><strong>WELCKERO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 791 2404 1468 2479">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 791 2404 1468 2479">
+     <span class='ocr_line' id='line_1_3' title="bbox 791 2404 1468 2479; baseline -0.001 -8"><span class='ocrx_word' id='word_1_6' title='bbox 791 2404 1151 2479; x_wconf 69' lang='lat' dir='ltr'><strong>PRAEGEPTORIBYS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1173 2404 1468 2471; x_wconf 82' lang='lat' dir='ltr'>DILEGTISSIMIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2246 5467">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2246 5467">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2246 5467; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2246 5467; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
